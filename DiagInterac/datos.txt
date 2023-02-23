@@ -1,0 +1,12 @@
+*ESCRIBIR LOS DATOS DEBAJO DE DONDE ESTÁ SU NOMBRE Y EN EL ORDEN QUE SE PRESENTAN (reemplazar numeros) medidas en cm
+****NOMBRE DEL ARCHIVO
+ G42RB
+*B(cm)	H(cm)	r libre(cm) 	
+35	35	5	
+*F'c	Num. Lechos	Tipo acero (G42, G42RB, G42T, G56, G56T y G60)
+400	2		G42RB
+*Fyh	Sh(sep. estribos cm)	Diametro estribo (cm)
+4200	15			0.95		
+*Φ(cm)	#barras	profundidad(cm)	(la profundidad de la 1era y última se modificará para cumplir el recubrimiento libre)
+1.905	2	5
+1.905	2	30
